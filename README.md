@@ -18,4 +18,4 @@
 
 
 
-(socialLife == null) ? die : die;
+(socialLife == null) ? die() : live();
